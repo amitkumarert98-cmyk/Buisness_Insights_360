@@ -1,5 +1,7 @@
 📊 Business Insights 360 | Power BI
+
 📌 Project Overview
+
 AtliQ Hardware is a rapidly growing hardware company that operates across multiple countries and sells computers and computer accessories through different channels.
 
 Due to rapid expansion, the company faced challenges in making data-driven business decisions. One of the major setbacks occurred when AtliQ Hardware opened a store in the American market based mainly on surveys, intuition, and Excel-based analysis, which resulted in an unexpected loss.
