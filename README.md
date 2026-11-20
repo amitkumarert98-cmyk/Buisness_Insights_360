@@ -20,6 +20,7 @@ This project was developed by following the Codebasics Power BI course.
 ### Live Power BI Report
 
 [View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWQ2YTQzNjQtYjIyZi00N2E3LTgzNTQtMDEzYTc2NzlkZDE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 📁 GitHub Repository
 The complete project files, documentation, and supporting resources are available in this repository.
 
