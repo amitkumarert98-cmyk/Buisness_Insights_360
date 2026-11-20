@@ -465,9 +465,6 @@ Users can navigate to different business views using interactive buttons.
 * 👔 Executive
 * 🆘 Support
 
-This makes the report more interactive and user-friendly.
- <img width="1423" height="845" alt="Screenshot 2026-10-05 113824" src="https://github.com/user-attachments/assets/9c9159d2-d012-4f72-a805-68cee9cc4b79" />
-
 
 # 💰 Finance View
 
@@ -484,8 +481,6 @@ It helps stakeholders analyze metrics such as:
 * Year-to-Date performance
 * Year-to-Go performance
 
----  <img width="1419" height="842" alt="Financeview" src="https://github.com/user-attachments/assets/37906beb-cbdc-4214-8609-9d3771cc1531" />
-
 
 # 📈 Sales View
 
@@ -499,8 +494,6 @@ The Sales View helps analyze sales performance across:
 * Time periods
 
 It helps identify high-performing and underperforming areas of the business.
-
----  <img width="1465" height="840" alt="Sales View" src="https://github.com/user-attachments/assets/cdbc3a8d-5121-4425-bdac-2f08b9a30c40" />
 
 
 # 📢 Marketing View
@@ -516,7 +509,6 @@ The Marketing View provides insights into:
 
 This helps the marketing team understand where business opportunities exist.
 
---- <img width="1427" height="843" alt="Marketingview" src="https://github.com/user-attachments/assets/8edde3c4-5568-433c-954f-02a3e3b015e7" />
 
 
 # 🚚 Supply Chain View
@@ -533,8 +525,6 @@ The Supply Chain View focuses on:
 
 This helps identify gaps between **forecasted demand and actual demand**.
 
----  <img width="1426" height="851" alt="Screenshot 2026-10-05 114014" src="https://github.com/user-attachments/assets/b2c77551-9ef4-41e5-b225-71db20aebb27" />
-
 
 # 👔 Executive View
 
@@ -550,13 +540,7 @@ It allows senior management to quickly understand:
 * Product performance
 * Supply chain performance
 
----  <img width="1429" height="843" alt="Executive view" src="https://github.com/user-attachments/assets/e4db07e9-2b3e-4f83-bc1a-1d85cb36a9d6" />
-
-* ℹ️ Info
- <img width="1423" height="849" alt="info" src="https://github.com/user-attachments/assets/45d237ed-9e7b-4b28-80c1-27244798ee94" />
-* 🆘 Support 
-<img width="1424" height="848" alt="support" src="https://github.com/user-attachments/assets/de38bf21-5c48-4c24-b774-fb4a7a1c8ae5" />
-
+  
 # 📖 Business Terminology
 
 During this project, I learned and implemented several important business concepts.
