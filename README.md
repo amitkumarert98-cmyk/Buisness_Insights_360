@@ -425,12 +425,6 @@ Therefore, following proper data-modeling practices is essential.
 
 For this project, a **Snowflake Data Model** was implemented.
 
-## 📊 Data Model
-
-![Business Insights 360 Data Model] <img width="1554" height="847" alt="data model" src="https://github.com/user-attachments/assets/dfeb4a1c-7377-45e4-9e3e-64b9de718183" />
-
-
----
 
 # 🎨 Dashboard Design
 
@@ -563,32 +557,8 @@ During this project, I learned and implemented several important business concep
 
 ---
 
-# 📂 GitHub Large File Management
 
-The project contains large Power BI-related files.
-
-To manage large files efficiently, I learned how to use **Git Large File Storage (Git LFS)**.
-
-### Topics Covered
-
-* Uploading large files using Git LFS
-* Tracking specific file extensions
-* Managing large Power BI project files
-* Working with GitHub repositories
-
-Example:
-
-```bash
-git lfs install
-git lfs track "*.pbix"
-git add .
-git commit -m "Add Power BI project"
-git push
-```
-
----
-
-# 🎯 Key Learning Outcomes
+ Key Learning Outcomes
 
 This project helped me gain practical experience in the complete **Business Intelligence workflow**:
 
